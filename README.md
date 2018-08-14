@@ -1,4 +1,5 @@
 # Useful-Repos
+Collection of useful github repositories
 
 * [Useful-Java-Libs](/Useful-Java-Libs.md)
 * [Useful-Android-Libs](/Useful-Android-Libs.md)
