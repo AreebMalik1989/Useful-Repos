@@ -6,7 +6,7 @@ Collection of useful github repositories
 * [Useful-Android-Apps](/Useful-Android-Apps.md)
 * [Useful-Android-Gists](/Useful-Android-Gists)
 
-## Licence
+## License
     Copyright 2018 Areeb Malik
 
     Licensed under the Apache License, Version 2.0 (the "License");
