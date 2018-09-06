@@ -6,6 +6,7 @@ Collection of useful github repositories
 * [Useful-Android-Apps](/Useful-Android-Apps.md)
 * [Useful-Android-Gists](/Useful-Android-Gists.md)
 * [Useful-Testing-Libs](/Useful-Testing-Libs.md)
+* [Useful-Appium-Libs](/Useful-Appium-Libs.md)
 
 ## License
     Copyright 2018 Areeb Malik
