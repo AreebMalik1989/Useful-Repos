@@ -10,3 +10,4 @@ List of useful android libraries
 * [butterknife](https://github.com/JakeWharton/butterknife)
 * [androidannotations](https://github.com/androidannotations/androidannotations)
 * [objectbox-java](https://github.com/objectbox/objectbox-java)
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
