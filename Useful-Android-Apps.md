@@ -2,6 +2,7 @@
 List of useful Android apps
 
 ## Basic
+* [DeviceInfo](https://github.com/QuixomTech/DeviceInfo)
 * [Minimal-Todo](https://github.com/avjinder/Minimal-Todo)
 * [SoundRecorder](https://github.com/dkim0419/SoundRecorder)
 * [MLManager](https://github.com/javiersantos/MLManager)
