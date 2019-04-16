@@ -14,3 +14,4 @@ List of useful Android apps
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial)
 * [photo-affix](https://github.com/afollestad/photo-affix)
 * [WeatherStream](https://github.com/QuixomTech/WeatherStream)
+* [aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)
