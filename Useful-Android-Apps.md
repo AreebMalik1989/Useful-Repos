@@ -13,3 +13,4 @@ List of useful Android apps
 * [Pedometer](https://github.com/j4velin/Pedometer)
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial)
 * [photo-affix](https://github.com/afollestad/photo-affix)
+* [WeatherStream](https://github.com/QuixomTech/WeatherStream)
