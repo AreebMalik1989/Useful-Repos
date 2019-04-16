@@ -15,3 +15,4 @@ List of useful Android apps
 * [photo-affix](https://github.com/afollestad/photo-affix)
 * [WeatherStream](https://github.com/QuixomTech/WeatherStream)
 * [aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)
+* [KataSuperHeroesKotlin](https://github.com/Karumi/KataSuperHeroesKotlin)
