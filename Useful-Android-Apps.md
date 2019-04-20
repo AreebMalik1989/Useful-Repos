@@ -2,6 +2,8 @@
 List of useful Android apps
 
 ## Basic
+
+* [android-architecture](https://github.com/googlesamples/android-architecture)
 * [essential-launcher](https://github.com/clemensbartz/essential-launcher)
 * [DeviceInfo](https://github.com/QuixomTech/DeviceInfo)
 * [Minimal-Todo](https://github.com/avjinder/Minimal-Todo)
