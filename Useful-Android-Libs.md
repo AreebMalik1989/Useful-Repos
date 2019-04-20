@@ -11,3 +11,4 @@ List of useful android libraries
 * [androidannotations](https://github.com/androidannotations/androidannotations)
 * [objectbox-java](https://github.com/objectbox/objectbox-java)
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+* [leakcanary](https://github.com/square/leakcanary)
