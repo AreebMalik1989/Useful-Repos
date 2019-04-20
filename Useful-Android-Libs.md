@@ -1,6 +1,7 @@
 # Useful-Android-Libs
 List of useful android libraries
 
+* [android-architecture](https://github.com/googlesamples/android-architecture)
 * [awesome-android](https://github.com/sindresorhus/awesome)
 * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
