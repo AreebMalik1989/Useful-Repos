@@ -3,6 +3,7 @@ List of useful Android apps
 
 ## Basic
 
+* [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 * [android-architecture](https://github.com/googlesamples/android-architecture)
 * [essential-launcher](https://github.com/clemensbartz/essential-launcher)
 * [DeviceInfo](https://github.com/QuixomTech/DeviceInfo)
@@ -19,3 +20,9 @@ List of useful Android apps
 * [WeatherStream](https://github.com/QuixomTech/WeatherStream)
 * [aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)
 * [KataSuperHeroesKotlin](https://github.com/Karumi/KataSuperHeroesKotlin)
+
+## Intermediate
+* [iosched](https://github.com/google/iosched)
+
+## Advanced
+* [ExoPlayer](https://github.com/google/ExoPlayer)
