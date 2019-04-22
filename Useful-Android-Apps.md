@@ -64,6 +64,12 @@ List of useful Android apps
 * [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 * [apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 * [SeeWeather](https://github.com/xcc3641/SeeWeather)
+* [duckduckgo](https://github.com/duckduckgo/Android)
+* [Osmand](https://github.com/osmandapp/Osmand)
+* [muzei](https://github.com/romannurik/muzei)
+* [LaunchairLauncher](https://github.com/LawnchairLauncher/Lawnchair)
+* [kiwix](https://github.com/kiwix/kiwix-android)
+* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 
 ## Games
 * [pixel-dungeon](https://github.com/watabou/pixel-dungeon)
