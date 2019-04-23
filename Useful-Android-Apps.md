@@ -70,6 +70,7 @@ List of useful Android apps
 * [LaunchairLauncher](https://github.com/LawnchairLauncher/Lawnchair)
 * [kiwix](https://github.com/kiwix/kiwix-android)
 * [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
+* [Launcher3](https://github.com/amirzaidi/Launcher3)
 
 ## Games
 * [pixel-dungeon](https://github.com/watabou/pixel-dungeon)
