@@ -8,6 +8,7 @@ Collection of useful github repositories
 * [Useful-Testing-Libs](/Useful-Testing-Libs.md)
 * [Useful-Appium-Libs](/Useful-Appium-Libs.md)
 * [Useful-Selenium-Libs](/Useful-Selenium-Libs.md)
+* [Useful-DS-Algo-Design-Repos](/Useful-DS-Algo-Design-Repos.md)
 
 ## License
     Copyright 2018 Areeb Malik
