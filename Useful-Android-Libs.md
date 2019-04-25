@@ -13,3 +13,6 @@ List of useful android libraries
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 * [leakcanary](https://github.com/square/leakcanary)
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
+## Android dockers
+* [softsam/docker-android-emulator](https://github.com/softsam/docker-android-emulator)
