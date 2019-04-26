@@ -2,7 +2,7 @@
 List of useful Android apps
 
 ## Basic
-
+* [ecgreb/loginator](https://github.com/ecgreb/loginator)
 * [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
 * [archi](https://github.com/ivacf/archi)
 * [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
