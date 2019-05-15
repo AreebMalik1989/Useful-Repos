@@ -75,6 +75,6 @@ List of useful Android apps
 
 ## Games
 * [Java -> sromku/memory-game](https://github.com/sromku/memory-game)
-* [Java -> pixel-dungeon](https://github.com/watabou/pixel-dungeon)
+* [Java -> pixel-dungeon](https://github.com/watabou/pixel-dungeon) -> [00-Evan/pixel-dungeon-gradle](https://github.com/00-Evan/pixel-dungeon-gradle)
 * [Kotlin -> santa-tracker-android](https://github.com/google/santa-tracker-android)
 * [Java -> 2048-android](https://github.com/uberspot/2048-android)
