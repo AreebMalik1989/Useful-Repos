@@ -74,6 +74,7 @@ List of useful Android apps
 * [Launcher3](https://github.com/amirzaidi/Launcher3)
 
 ## Games
+* [Java -> sromku/memory-game](https://github.com/sromku/memory-game)
 * [Java -> pixel-dungeon](https://github.com/watabou/pixel-dungeon)
 * [Kotlin -> santa-tracker-android](https://github.com/google/santa-tracker-android)
 * [Java -> 2048-android](https://github.com/uberspot/2048-android)
