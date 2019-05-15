@@ -26,15 +26,15 @@ List of useful Android apps
 * [Java -> Clip-Stack](https://github.com/heruoxin/Clip-Stack)
 
 ## Intermediate
-* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
-* [photo-affix](https://github.com/afollestad/photo-affix)
-* [MovieGuide](https://github.com/esoxjem/MovieGuide)
-* [AnExplorer](https://github.com/1hakr/AnExplorer)
-* [Travel-Mate](https://github.com/project-travel-mate/Travel-Mate)
-* [KISS](https://github.com/Neamar/KISS)
-* [turbo-editor](https://github.com/vmihalachi/turbo-editor)
-* [Telecine](https://github.com/JakeWharton/Telecine)
+* [Java -> AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)
+* [Kotlin -> Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+* [Kotlin -> photo-affix](https://github.com/afollestad/photo-affix)
+* [Java -> MovieGuide](https://github.com/esoxjem/MovieGuide)
+* [Java -> AnExplorer](https://github.com/1hakr/AnExplorer)
+* [Java -> Travel-Mate](https://github.com/project-travel-mate/Travel-Mate)
+* [Java -> KISS](https://github.com/Neamar/KISS)
+* [Java -> turbo-editor](https://github.com/vmihalachi/turbo-editor)
+* [Java -> Telecine](https://github.com/JakeWharton/Telecine)
 
 ## Advanced
 * [ioshed](https://github.com/google/iosched)
@@ -74,6 +74,6 @@ List of useful Android apps
 * [Launcher3](https://github.com/amirzaidi/Launcher3)
 
 ## Games
-* [pixel-dungeon](https://github.com/watabou/pixel-dungeon)
-* [santa-tracker-android](https://github.com/google/santa-tracker-android)
-* [2048-android](https://github.com/uberspot/2048-android)
+* [Java -> pixel-dungeon](https://github.com/watabou/pixel-dungeon)
+* [Kotlin -> santa-tracker-android](https://github.com/google/santa-tracker-android)
+* [Java -> 2048-android](https://github.com/uberspot/2048-android)
