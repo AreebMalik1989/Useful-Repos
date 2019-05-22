@@ -2,6 +2,7 @@
 List of useful Android apps
 
 ## Basic
+* [nisrulz/android-examples](https://github.com/nisrulz/android-examples)
 * [Kotlin -> Simple Mobile Tools](https://github.com/SimpleMobileTools)
 * [Kotlin -> ecgreb/loginator](https://github.com/ecgreb/loginator)
 * [Java -> ecgreb/mvpc](https://github.com/ecgreb/mvpc)
