@@ -1,6 +1,9 @@
 # Useful-Android-Apps
 List of useful Android apps
 
+## Roadmap for Android development
+* [anacoimbrag/android-developer-roadmap](https://github.com/anacoimbrag/android-developer-roadmap)
+
 ## Basic
 * [nisrulz/android-examples](https://github.com/nisrulz/android-examples)
 * [Kotlin -> Simple Mobile Tools](https://github.com/SimpleMobileTools)
