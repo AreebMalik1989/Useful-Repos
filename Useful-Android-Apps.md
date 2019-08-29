@@ -31,6 +31,7 @@ List of useful Android apps
 * [Java -> Clip-Stack](https://github.com/heruoxin/Clip-Stack)
 
 ## Intermediate
+* [Kotlin -> android-showcase](https://github.com/igorwojda/android-showcase)
 * [Java -> AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)
 * [Kotlin -> Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 * [Kotlin -> photo-affix](https://github.com/afollestad/photo-affix)
