@@ -10,3 +10,4 @@ Collection of useful testing libraries
 ## For jenky frames android
 * [JankyFrameStatistics](https://github.com/MiCode/JankyFrameStatistics)
 * [automated-jank-test-example](https://github.com/akperkins/automated-jank-test-example)
+* [ActivityFrameMetrics](https://github.com/frogermcs/ActivityFrameMetrics)
