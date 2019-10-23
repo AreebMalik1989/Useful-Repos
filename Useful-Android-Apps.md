@@ -5,6 +5,7 @@ List of useful Android apps
 * [anacoimbrag/android-developer-roadmap](https://github.com/anacoimbrag/android-developer-roadmap)
 
 ## Basic
+* [Kotlin -> kotlin-android-examples](https://github.com/amanjeetsingh150/kotlin-android-examples)
 * [nisrulz/android-examples](https://github.com/nisrulz/android-examples)
 * [Kotlin -> Simple Mobile Tools](https://github.com/SimpleMobileTools)
 * [Kotlin -> ecgreb/loginator](https://github.com/ecgreb/loginator)
