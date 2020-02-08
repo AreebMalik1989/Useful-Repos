@@ -8,3 +8,6 @@ Collection of useful Appium libraries.
 * [appium-boilerplate](https://github.com/webdriverio/appium-boilerplate)
 * [react-native-e2etest](https://github.com/garthenweb/react-native-e2etest)
 * [tipsi-appium-helper](https://github.com/tipsi/tipsi-appium-helper)
+
+## Useful Appium Frameworks
+* [AppiumTestDistribution](https://github.com/AppiumTestDistribution/AppiumTestDistribution)
