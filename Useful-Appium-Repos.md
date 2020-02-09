@@ -1,4 +1,4 @@
-# Useful Appium Libs
+# Useful Appium Repos
 Collection of useful Appium libraries.
 
 * [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium)
