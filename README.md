@@ -6,7 +6,7 @@ Collection of useful github repositories
 * [Useful-Android-Apps](/Useful-Android-Apps.md)
 * [Useful-Android-Gists](/Useful-Android-Gists.md)
 * [Useful-Testing-Libs](/Useful-Testing-Libs.md)
-* [Useful-Appium-Libs](/Useful-Appium-Libs.md)
+* [Useful-Appium-Repos](/Useful-Appium-Repos.md)
 * [Useful-Selenium-Libs](/Useful-Selenium-Libs.md)
 * [Useful-DS-Algo-Design-Repos](/Useful-DS-Algo-Design-Repos.md)
 * [Useful-Clean-Architecture-Repos](/Useful-Clean-Architecture-Repos.md)
