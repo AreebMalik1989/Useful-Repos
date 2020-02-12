@@ -10,6 +10,6 @@ Collection of useful Appium libraries.
 * [tipsi-appium-helper](https://github.com/tipsi/tipsi-appium-helper)
 
 ## Useful Appium Frameworks
-* [AppiumTestDistribution](https://github.com/AppiumTestDistribution/AppiumTestDistribution)
+* [AppiumTestDistribution(IOS)](https://github.com/AppiumTestDistribution/AppiumTestDistribution)
 * [PageObjectPatternAppium](https://github.com/AppiumTestDistribution/PageObjectPatternAppium)
 * [coteafs-appium](https://github.com/WasiqB/coteafs-appium)
