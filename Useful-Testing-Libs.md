@@ -7,6 +7,8 @@ Collection of useful testing libraries
 
 # Useful Testing Repos
 
+* [super](https://github.com/SUPERAndroidAnalyzer/super)
+
 ## For jenky frames android
 * [JankyFrameStatistics](https://github.com/MiCode/JankyFrameStatistics)
 * [automated-jank-test-example](https://github.com/akperkins/automated-jank-test-example)
