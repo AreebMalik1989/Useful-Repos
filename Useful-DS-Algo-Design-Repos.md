@@ -1,4 +1,7 @@
 # Data Structures
+
+* [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
+
 ## Java
 * [williamfiset/data-structures](https://github.com/williamfiset/data-structures)
 * [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
