@@ -85,3 +85,13 @@ List of useful Android apps
 * [Java -> pixel-dungeon](https://github.com/watabou/pixel-dungeon) -> [00-Evan/pixel-dungeon-gradle](https://github.com/00-Evan/pixel-dungeon-gradle)
 * [Kotlin -> santa-tracker-android](https://github.com/google/santa-tracker-android)
 * [Java -> 2048-android](https://github.com/uberspot/2048-android)
+
+## Android Webservice with Jetty
+* [TakeoutService](https://github.com/JackChan1999/TakeoutService)
+* [lWS](https://github.com/mvbasov/lWS)
+* [JettyOnAndroid](https://github.com/youten/JettyOnAndroid)
+* [BeyondUPnP](https://github.com/kevinshine/BeyondUPnP)
+* [Jetty4A](https://github.com/Centny/Jetty4A)
+* [a-jetty-all](https://github.com/demidenko05/a-jetty-all)
+* [JettyForAndroid](https://github.com/zhangweiqwe/JettyForAndroid)
+* [HttpService](https://github.com/youten/HttpService)
