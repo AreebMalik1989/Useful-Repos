@@ -88,10 +88,11 @@ List of useful Android apps
 
 ## Android Webservice with Jetty
 * [TakeoutService](https://github.com/JackChan1999/TakeoutService)
+* [HttpService](https://github.com/youten/HttpService)
 * [lWS](https://github.com/mvbasov/lWS)
 * [JettyOnAndroid](https://github.com/youten/JettyOnAndroid)
 * [BeyondUPnP](https://github.com/kevinshine/BeyondUPnP)
 * [Jetty4A](https://github.com/Centny/Jetty4A)
 * [a-jetty-all](https://github.com/demidenko05/a-jetty-all)
 * [JettyForAndroid](https://github.com/zhangweiqwe/JettyForAndroid)
-* [HttpService](https://github.com/youten/HttpService)
+
