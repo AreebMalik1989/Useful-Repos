@@ -29,6 +29,7 @@ List of useful Android apps
 * [Kotlin -> aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)
 * [Kotlin -> KataSuperHeroesKotlin](https://github.com/Karumi/KataSuperHeroesKotlin)
 * [Java -> KataSuperHeroesAndroid](https://github.com/Karumi/KataSuperHeroesAndroid)
+* [Kotlin -> MarvelHeroes](https://github.com/skydoves/MarvelHeroes)
 * [Java -> Clip-Stack](https://github.com/heruoxin/Clip-Stack)
 
 ## Intermediate
