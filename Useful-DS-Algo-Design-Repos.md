@@ -9,3 +9,5 @@
 # Design Patterns
 ## Java
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+## Python
+* [jackdbd/design-patterns](https://github.com/jackdbd/design-patterns)
