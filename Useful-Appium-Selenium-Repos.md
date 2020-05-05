@@ -13,3 +13,7 @@ Collection of useful Appium libraries.
 * [AppiumTestDistribution(IOS)](https://github.com/AppiumTestDistribution/AppiumTestDistribution)
 * [PageObjectPatternAppium](https://github.com/AppiumTestDistribution/PageObjectPatternAppium)
 * [coteafs-appium](https://github.com/WasiqB/coteafs-appium)
+
+## Useful Selenium Frameworks
+* [Louis-me/selenium_java](https://github.com/Louis-me/selenium_java)
+* [Louis-me/selenium](https://github.com/Louis-me/selenium)
