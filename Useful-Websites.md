@@ -3,3 +3,7 @@
 * [freecodecamp.org](https://www.freecodecamp.org)
 * [theodinproject.com](https://theodinproject.com)
 * [harvard-cs-50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+
+## Testing
+* [Test Automation University](https://testautomationu.applitools.com/)
+* [Automation Panda](https://automationpanda.com/)
