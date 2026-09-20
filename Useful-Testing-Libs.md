@@ -1,6 +1,8 @@
 # Useful Testing Libraries
 Collection of useful testing libraries
 
+* [awesome-sdet-collection](https://github.com/dstekanov/awesome-sdet-collection)
+* [awesome-learning](https://github.com/mfaisalkhatri/awesome-learning)
 * [frameworkium](https://github.com/Frameworkium/frameworkium-core)
 * [smart-testing](https://github.com/arquillian/smart-testing)
 * [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing)
